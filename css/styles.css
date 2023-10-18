@@ -702,7 +702,7 @@ width: 100%;
     letter-spacing: 0.04em;
 }
 
-.footer-form-btn:focus {
+.footer-form-btn:hover, .footer-form-btn:focus {
     background-color: #404BBF;
 }
 
